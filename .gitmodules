@@ -1,0 +1,54 @@
+[submodule "vim-ripgrep"]
+	path = vim-ripgrep
+	url = https://github.com/jremmen/vim-ripgrep.git
+[submodule "ctrlp.vim"]
+	path = ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "nerdcommenter"]
+	path = nerdcommenter
+	url = https://github.com/ddollar/nerdcommenter.git
+[submodule "vim-easymotion"]
+	path = vim-easymotion
+	url = https://github.com/easymotion/vim-easymotion.git
+[submodule "NrrwRgn"]
+	path = NrrwRgn
+	url = https://github.com/chrisbra/NrrwRgn.git
+[submodule "vim-gitgutter"]
+	path = vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
+[submodule "vim-trailing-whitespace"]
+	path = vim-trailing-whitespace
+	url = https://github.com/bronson/vim-trailing-whitespace.git
+[submodule "syntastic"]
+	path = syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "nerdtree"]
+	path = nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "vim-rails"]
+	path = vim-rails
+	url = https://github.com/tpope/vim-rails.git
+[submodule "vim-polyglot"]
+	path = vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot.git
+[submodule "vim-sensible"]
+	path = vim-sensible
+	url = https://github.com/tpope/vim-sensible.git
+[submodule "gundo.vim"]
+	path = gundo.vim
+	url = https://github.com/sjl/gundo.vim.git
+[submodule "vim-endwise"]
+	path = vim-endwise
+	url = https://github.com/tpope/vim-endwise.git
+[submodule "tagbar"]
+	path = tagbar
+	url = https://github.com/majutsushi/tagbar.git
+[submodule "darcula"]
+	path = darcula
+	url = https://github.com/blueshirts/darcula.git
+[submodule "cobalt2-vim-theme"]
+	path = cobalt2-vim-theme
+	url = https://github.com/GertjanReynaert/cobalt2-vim-theme.git
+[submodule "vim-airline"]
+	path = vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
